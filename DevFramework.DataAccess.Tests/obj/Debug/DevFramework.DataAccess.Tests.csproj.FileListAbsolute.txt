@@ -1,0 +1,71 @@
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.dll.config
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Core.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.DataAccess.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Entities.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\NHibernate.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\Iesi.Collections.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Core.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.DataAccess.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Entities.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\NHibernate.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\Iesi.Collections.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.DataAccess.Tests.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Core.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.DataAccess.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Entities.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\NHibernate.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentValidation.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\PostSharp.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\Iesi.Collections.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Core.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Core.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.DataAccess.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.DataAccess.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Entities.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Entities.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\NHibernate.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentValidation.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentValidation.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\PostSharp.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\Iesi.Collections.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\cs\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\da\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\de\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\es\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\fa\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\fi\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\fr\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\it\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\ko\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\mk\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\nl\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\pl\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\pt\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\ru\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\sv\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\tr\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.csprojResolveAssemblyReference.cache
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.pdb

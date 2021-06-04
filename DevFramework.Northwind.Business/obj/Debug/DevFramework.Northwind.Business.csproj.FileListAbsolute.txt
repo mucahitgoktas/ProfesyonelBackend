@@ -1,0 +1,57 @@
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csprojResolveAssemblyReference.cache
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Core.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.DataAccess.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Entities.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentValidation.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\PostSharp.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\NHibernate.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\EntityFramework.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentNHibernate.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\Iesi.Collections.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Core.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Core.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.DataAccess.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.DataAccess.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Entities.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Entities.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentValidation.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentValidation.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\PostSharp.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\NHibernate.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\EntityFramework.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentNHibernate.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\FluentNHibernate.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\Iesi.Collections.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\cs\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\da\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\de\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\es\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\fa\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\fi\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\fr\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\it\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\ko\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\mk\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\nl\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\pl\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\pt\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\ru\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\sv\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\tr\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pssym
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll.postsharp
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\Ninject.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.Business\bin\Debug\Ninject.xml
