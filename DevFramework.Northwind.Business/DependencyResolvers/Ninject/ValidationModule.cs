@@ -10,11 +10,12 @@ using Ninject.Modules;
 
 namespace DevFramework.Northwind.Business.DependencyResolvers.Ninject
 {
-    public class ValidationModule:NinjectModule
+    public class ValidationModule:NinjectModule // Dependency Injection
     {
-        public override void Load()
+        public override void Load() // NinjectModule'den gelen load metodu.
         {
-            Bind<IValidator<Product>>().To<ProductValidatior>().InSingletonScope();
+            Bind<IValidator<Product>>().To<ProductValidatior>().InSingletonScope(); // Ivalidator türünde (Product için) bir validation'a ihtiyaç duyarsa o zaman ona ProductValidator'u ver.
+                                                                                    // Sıngleton olarak özellik ekleyerek performansımızı arttırıyoruz.
         }
     }
 }

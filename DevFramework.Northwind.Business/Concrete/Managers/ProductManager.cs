@@ -52,8 +52,8 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
             return _productDal.Update(product);
         }
 
-        [TransactionScopeAspect]
-        public void TransactionalOperation(Product product1, Product product2)
+        [TransactionScopeAspect] //FrameWork.Core.Aspects.PostSharp.TransactionAspects.TransactionScopeAspect.cs
+        public void TransactionalOperation(Product product1, Product product2) // Transaction Operation
         {
             _productDal.Add(product1);
             // Business Codes

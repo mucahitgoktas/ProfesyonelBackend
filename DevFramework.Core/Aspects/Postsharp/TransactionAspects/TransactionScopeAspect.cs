@@ -22,19 +22,19 @@ namespace DevFramework.Core.Aspects.Postsharp.TransactionAspects
             
         }
 
-        public override void OnEntry(MethodExecutionArgs args)
+        public override void OnEntry(MethodExecutionArgs args) // methoda girildiğinde...
         {
-            args.MethodExecutionTag =new TransactionScope(_option);
+            args.MethodExecutionTag =new TransactionScope(_option); 
         }
 
         public override void OnSuccess(MethodExecutionArgs args)
         {
-            ((TransactionScope)args.MethodExecutionTag).Complete();
+            ((TransactionScope)args.MethodExecutionTag).Complete(); // metot başarılıysa
         }
 
         public override void OnExit(MethodExecutionArgs args)
         {
-            ((TransactionScope)args.MethodExecutionTag).Dispose();
+            ((TransactionScope)args.MethodExecutionTag).Dispose(); // metot başarılı değilse tüm işlemi geri al.
         }
     }
 }
