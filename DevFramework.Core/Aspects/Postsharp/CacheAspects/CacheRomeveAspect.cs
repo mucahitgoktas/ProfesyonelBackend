@@ -11,13 +11,13 @@ using PostSharp.Aspects.Advices;
 namespace DevFramework.Core.Aspects.Postsharp.CacheAspects
 {
     [Serializable]
-    class CacheRemoveAspect:OnMethodBoundaryAdvice
+    public class CacheRemoveAspect : OnMethodBoundaryAspect
     {
         private string _pattern;
         private Type _cacheType;
         private ICacheManager _cacheManager;
 
-        public CacheRemoveAspect(Type cache)
+        public CacheRemoveAspect(Type cacheType)
         {
             _cacheType = _cacheType;
         }
@@ -38,10 +38,12 @@ namespace DevFramework.Core.Aspects.Postsharp.CacheAspects
             base.RuntimeInitialize(method);
         }
 
-        override override void Onsuccess(MethodExecutionArgs args)
+        public override void OnSuccess(MethodExecutionArgs args)
         {
             _cacheManager.RemoveByPattern(string.IsNullOrEmpty(_pattern)
-            ?string.Format("{0},{1}.*",args.Method.ReflectedType.Namespace,args.Method.ReflectedType.Name):_pattern);
+            ? string.Format("{0},{1}.*", args.Method.ReflectedType.Namespace, args.Method.ReflectedType.Name) : _pattern); // namespace ve class'taki cash i sil.
         }
+
+
     }
 }
